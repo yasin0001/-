@@ -11,3 +11,8 @@
 - Build command: خالی (نیازی به build step نیست)
 
 پس از اتصال این مخزن به Worker موجود در Cloudflare از مسیر **Settings → Builds → Connect**، شاخه `main` را برای production انتخاب کنید. پیش از فعال کردن deploy خودکار، مطمئن شوید پروژه Worker موجود با همین نام و تنظیمات است.
+
+
+## Deployment trigger
+
+This commit triggers the first Cloudflare Workers Builds deployment from the connected `main` branch.
