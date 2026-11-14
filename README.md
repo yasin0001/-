@@ -16,3 +16,7 @@
 ## Deployment trigger
 
 This commit triggers the first Cloudflare Workers Builds deployment from the connected `main` branch.
+
+
+## IndexNow
+The public asset `public/0a63536d64014974a657ba1131385b3d.txt` verifies the site for IndexNow submissions.
